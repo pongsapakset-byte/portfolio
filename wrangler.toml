@@ -1,0 +1,11 @@
+name = "portfolio-phongsapak"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "portfolio-db"
+database_id = "your-d1-database-id-here"
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "portfolio-assets"
